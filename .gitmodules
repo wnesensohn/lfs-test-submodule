@@ -1,0 +1,3 @@
+[submodule "LemonTreePublicDemo"]
+	path = LemonTreePublicDemo
+	url = ../../danielsiegl/LemonTreePublicDemo
